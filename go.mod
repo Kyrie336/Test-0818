@@ -1,4 +1,4 @@
-module github.com/Kyrie336/Test-0818
+module github.com/Kyrie336/Test-0818/v2
 
 go 1.23.6
 
